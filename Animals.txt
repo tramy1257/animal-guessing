@@ -1,0 +1,22 @@
+1
+Is it bigger than a microwave?
+2
+Can it swim?
+4
+Is it a cat?
+5
+Is it a fish?
+3
+Does it have horn?
+6
+Does it have long neck?
+12
+Is it black and white?
+24
+Is it a dog?
+25
+is it a panda
+13
+Is it a giraffe?
+7
+Is it a buffalo?
