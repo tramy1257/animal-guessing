@@ -5,7 +5,11 @@ Can it swim?
 4
 Is it a cat?
 5
+Does it have legs?
+10
 Is it a fish?
+11
+Is it a crab?
 3
 Does it have horn?
 6

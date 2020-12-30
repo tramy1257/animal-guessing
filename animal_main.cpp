@@ -11,13 +11,13 @@
  */
 
 #include <iostream>
-#include "animal_tree.h"
+#include "./animal_tree/animal_tree.h"
 using namespace std;
 
 
 int main()
 {
-  const string FILE_NAME = "Animals.txt";
+  const string FILE_NAME = "./save_tree/updated-animals.txt";
 
   // Construct a tree for the game
   Animal_tree animal( FILE_NAME );
@@ -68,9 +68,6 @@ int main()
 
   // Save information from the tree to the save file
   animal.save_data( FILE_NAME );
-
-  // destruct the tree
-  animal.delete_tree( animal.get_root_node() );
 
   return 0;
 }
